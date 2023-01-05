@@ -1,0 +1,12 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "BLOG DO COORDENADOR",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:17:15-03:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
