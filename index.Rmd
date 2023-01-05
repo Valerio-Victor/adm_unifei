@@ -1,5 +1,5 @@
 ---
-title: "Blog do Coordenador"
+title: 'BLOG DO COORDENADOR'
 description: |
   Bem vindo ao website. Espero que se divirta!
 site: distill::distill_website

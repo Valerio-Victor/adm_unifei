@@ -1,12 +1,20 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "SOBRE O SITE",
+      "description": "Inserir aqui a descrição do site!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-04T23:50:21-03:00"
+    },
+    {
       "path": "index.html",
-      "title": "Blog do Coordenador",
+      "title": "BLOG DO COORDENADOR",
       "description": "Bem vindo ao website. Espero que se divirta!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-04T23:46:16-03:00"
+      "last_modified": "2023-01-04T23:50:39-03:00"
     }
   ],
   "collections": []

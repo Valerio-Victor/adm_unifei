@@ -1,7 +1,7 @@
 ---
-title: "About this site"
+title: 'SOBRE O SITE'
 description: |
-  Some additional details about the website
+  Inserir aqui a descrição do site!
 ---
 
 ```{r setup, include=FALSE}
