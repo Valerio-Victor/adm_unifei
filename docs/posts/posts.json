@@ -13,7 +13,41 @@
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-01-05T00:20:23-03:00",
-    "input_file": "welcome.knit.md"
+    "last_modified": "2023-01-05T00:22:38-03:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-01-05-post-de-teste/",
+    "title": "post de teste",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-01-05",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-01-05T00:26:18-03:00",
+    "input_file": "post-de-teste.knit.md"
+  },
+  {
+    "path": "posts/2023-01-05-post2/",
+    "title": "post de teste 2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-01-05",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2023-01-05T00:26:39-03:00",
+    "input_file": "post2.knit.md"
   }
 ]
