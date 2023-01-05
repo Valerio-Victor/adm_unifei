@@ -1,12 +1,17 @@
-name: "."
+name: '.'
 title: "Blog do Coordenador"
 description: |
   Blog do Coordenador
 output_dir: "docs"
 navbar:
   right:
-    - text: "Início"
-      href: index.html
-    - text: "Sobre"
-      href: about.html
+    - text: 'Sobre'
+      href: sobre.html
+    - text: 'Formulários'
+      href: formularios.html
+    - text: 'Comunidade'
+      href: comunidade.html
+    - text: 'Contato'
+      href: contato.html
+
 output: distill::distill_article

@@ -1,12 +1,28 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "SOBRE O SITE",
-      "description": "Inserir aqui a descrição do site!",
+      "path": "comunidade.html",
+      "title": "COMUNIDADE",
+      "description": "Aqui será destinado ao discourse\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-04T23:50:21-03:00"
+      "last_modified": "2023-01-05T00:04:47-03:00"
+    },
+    {
+      "path": "contato.html",
+      "title": "CONTATO",
+      "description": "Entrar em contato com o coordenador.\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:04:52-03:00"
+    },
+    {
+      "path": "formularios.html",
+      "title": "FORMULÁRIOS",
+      "description": "Colocar aqui os documentos relevantes aos estudantes.\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:04:42-03:00"
     },
     {
       "path": "index.html",
@@ -14,7 +30,15 @@
       "description": "Bem vindo ao website. Espero que se divirta!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-04T23:50:39-03:00"
+      "last_modified": "2023-01-05T00:05:03-03:00"
+    },
+    {
+      "path": "sobre.html",
+      "title": "SOBRE O SITE",
+      "description": "Inserir aqui a descrição do site!",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:04:58-03:00"
     }
   ],
   "collections": []
