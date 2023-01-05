@@ -1,11 +1,19 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:20:11-03:00"
+    },
+    {
       "path": "index.html",
       "title": "BLOG DO COORDENADOR",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-05T00:17:15-03:00"
+      "last_modified": "2023-01-05T00:20:18-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
