@@ -1,19 +1,43 @@
 {
   "articles": [
     {
-      "path": "about.html",
-      "title": "About this blog",
-      "description": "Some additional details about the blog",
+      "path": "comunidade.html",
+      "title": "DISCOURSE",
+      "description": "Regras da comunidade...",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-05T00:29:59-03:00"
+      "last_modified": "2023-01-05T00:45:00-03:00"
+    },
+    {
+      "path": "contato.html",
+      "title": "AGENDAS E CONTATOS",
+      "description": "Como entrar em contato...",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:45:12-03:00"
+    },
+    {
+      "path": "formularios.html",
+      "title": "DOCUMENTOS IMPORTANTES",
+      "description": "Colocar aqui os principais formulários.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:45:06-03:00"
     },
     {
       "path": "index.html",
       "title": "BLOG DO COORDENADOR",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-01-05T00:29:54-03:00"
+      "last_modified": "2023-01-05T00:45:19-03:00"
+    },
+    {
+      "path": "sobre.html",
+      "title": "SOBRE O BLOG",
+      "description": "Principais Informações Sobre o Blog...",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T00:45:25-03:00"
     }
   ],
   "collections": ["posts/posts.json"]
