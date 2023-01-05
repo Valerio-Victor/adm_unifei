@@ -1,7 +1,7 @@
 ---
 title: "Blog do Coordenador"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Bem vindo ao website. Espero que se divirta!
 site: distill::distill_website
 ---
 
