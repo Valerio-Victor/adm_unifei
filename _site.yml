@@ -1,12 +1,15 @@
-name: '.'
+name: 'BLOG DO COORDENADOR'
 title: 'BLOG DO COORDENADOR'
-description: |
-  BLOG DO COORDENADOR
 output_dir: 'docs'
+
 navbar:
   right:
     - text: 'BLOG'
       href: index.html
+    - text: 'COLEGIADO'
+      menu:
+      - text: 'Victor Valerio'
+      href: victor.html
     - text: 'SOBRE'
       href: sobre.html
     - text: 'COMUNIDADE'
@@ -15,4 +18,6 @@ navbar:
       href: formularios.html
     - text: 'CONTATO'
       href: contato.html
+
 output: distill::distill_article
+theme: modelo_final.css

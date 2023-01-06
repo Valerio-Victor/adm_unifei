@@ -1,5 +1,13 @@
 ---
-title: 'BLOG DO COORDENADOR'
+title: ''
 site: distill::distill_website
 listing: posts
 ---
+
+</br>
+
+```{r, warning = F,message = F, error = F, echo = F, fig.align = 'center', out.width = '40%', dpi = 300}
+knitr::include_graphics('imagem/logo1.png', dpi = 300)  
+```
+
+<hr color="#1c3d86" size="1.5">
