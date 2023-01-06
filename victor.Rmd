@@ -14,12 +14,11 @@ output:
   postcards::trestles
 ---
 
-
 <div style="text-align: justify">
 
+## COORDENADOR DE CURSO
 
 ## SOBRE O PESQUISADOR
-
 
 Possui graduação em ciências econômicas pela Universidade Estadual Paulista Júlio de Mesquita Filho 
 (2011), mestrado em engenharia de produção pela Universidade Federal de Itajubá (2015) e doutorado 

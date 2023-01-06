@@ -8,9 +8,9 @@ navbar:
       href: index.html
     - text: 'COLEGIADO'
       menu:
-      - text: 'Victor Valerio'
+      - text: 'VICTOR VALERIO'
         href: victor.html
-      - text: 'Isabel Arantes'
+      - text: 'ISABEL ARANTES'
         href: isabel.html
     - text: 'SOBRE'
       href: sobre.html
