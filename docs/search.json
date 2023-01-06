@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "path": "comunidade.html",
+      "title": "DISCOURSE",
+      "description": "Regras da comunidade...",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T21:46:14-03:00"
+    },
+    {
+      "path": "contato.html",
+      "title": "AGENDAS E CONTATOS",
+      "description": "Como entrar em contato...",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T21:46:28-03:00"
+    },
+    {
+      "path": "formularios.html",
+      "title": "DOCUMENTOS IMPORTANTES",
+      "description": "Colocar aqui os principais formulários.",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T21:46:42-03:00"
+    },
+    {
       "path": "index.html",
       "title": "",
       "author": [],
@@ -8,11 +32,25 @@
       "last_modified": "2023-01-05T21:42:13-03:00"
     },
     {
+      "path": "sobre.html",
+      "title": "SOBRE O BLOG",
+      "description": "Para que fazer mais um site?",
+      "author": [
+        {
+          "name": "Victor Valerio",
+          "url": "https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3017922"
+        }
+      ],
+      "date": "01/05/2023",
+      "contents": "\r\nDe início é importante esclarecer que esta não é uma página institucional da\r\nUNIFEI.\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-01-05T21:47:04-03:00"
+    },
+    {
       "path": "victor.html",
       "title": "VICTOR VALERIO",
       "author": [],
       "contents": "\r\n\r\n          \r\n          \r\n          BLOG DO COORDENADOR\r\n          \r\n          \r\n          BLOG\r\n          \r\n          \r\n          COLEGIADO\r\n           \r\n          ▾\r\n          \r\n          \r\n          Victor Valerio\r\n          \r\n          \r\n          SOBRE\r\n          COMUNIDADE\r\n          FORMULÁRIOS\r\n          CONTATO\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              VICTOR VALERIO\r\n            \r\n            \r\n              \r\n                \r\n                    \r\n                      \r\n                        UNIFEI\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        LATTES\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        EMAIL\r\n                      \r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      \r\n                        GITHUB\r\n                      \r\n                    \r\n                  \r\n                                  \r\n            \r\n          \r\n        \r\n        \r\n        \r\n          \r\n            \r\n\r\n\r\n            \r\n            SOBRE O PESQUISADOR\r\n            Possui graduação em ciências econômicas pela Universidade\r\n            Estadual Paulista Júlio de Mesquita Filho (2011), mestrado\r\n            em engenharia de produção pela Universidade Federal de\r\n            Itajubá (2015) e doutorado em engenharia de produção pela\r\n            Universidade Federal de Itajubá (2018), foi bolsista da\r\n            CAPES em ambos os casos. Atualmente é professor adjunto da\r\n            Universidade Federal de Itajubá no Instituto de Engenharia\r\n            de Produção e Gestão. É revisor de congressos nacionais na\r\n            área de análise financeira de investimentos, pesquisa\r\n            operacional, projetos de energia renovável e previsão. Tem\r\n            experiência profissional e acadêmica na área de economia e\r\n            engenharia de produção, com ênfase em Métodos e Modelos\r\n            Matemáticos, Econométricos e Estatísticos.\r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n      \r\n        \r\n          \r\n            \r\n              \r\n            \r\n              VICTOR VALERIO\r\n            \r\n            \r\n              \r\n                \r\n                                    \r\n                    \r\n                      UNIFEI\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      LATTES\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      EMAIL\r\n                    \r\n                  \r\n                                    \r\n                    \r\n                      GITHUB\r\n                    \r\n                  \r\n                                  \r\n              \r\n            \r\n            \r\n              \r\n\r\n\r\n              \r\n              SOBRE O PESQUISADOR\r\n              Possui graduação em ciências econômicas pela\r\n              Universidade Estadual Paulista Júlio de Mesquita Filho\r\n              (2011), mestrado em engenharia de produção pela\r\n              Universidade Federal de Itajubá (2015) e doutorado em\r\n              engenharia de produção pela Universidade Federal de\r\n              Itajubá (2018), foi bolsista da CAPES em ambos os casos.\r\n              Atualmente é professor adjunto da Universidade Federal de\r\n              Itajubá no Instituto de Engenharia de Produção e Gestão. É\r\n              revisor de congressos nacionais na área de análise\r\n              financeira de investimentos, pesquisa operacional,\r\n              projetos de energia renovável e previsão. Tem experiência\r\n              profissional e acadêmica na área de economia e engenharia\r\n              de produção, com ênfase em Métodos e Modelos Matemáticos,\r\n              Econométricos e Estatísticos.\r\n              \r\n            \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
-      "last_modified": "2023-01-05T21:42:32-03:00"
+      "last_modified": "2023-01-05T21:46:00-03:00"
     }
   ],
   "collections": ["posts/posts.json"]

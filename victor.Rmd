@@ -1,6 +1,6 @@
 ---
 title: 'VICTOR VALERIO'
-image: './imagem/victorlattes.JPG'
+image: 'victorlattes.JPG'
 links:
   - label: UNIFEI
     url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3017922'
