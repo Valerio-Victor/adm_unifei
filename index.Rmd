@@ -10,4 +10,4 @@ listing: posts
 knitr::include_graphics('imagem/logo.png', dpi = 300)  
 ```
 
-<hr color="#1c3d86" size="1.5">
+<hr color="#1c3d86">

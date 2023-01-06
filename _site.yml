@@ -9,7 +9,9 @@ navbar:
     - text: 'COLEGIADO'
       menu:
       - text: 'Victor Valerio'
-      href: victor.html
+        href: victor.html
+      - text: 'Isabel Arantes'
+        href: isabel.html
     - text: 'SOBRE'
       href: sobre.html
     - text: 'COMUNIDADE'
