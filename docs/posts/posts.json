@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/2023-01-05-exemplo/",
-    "title": "Exemplo de cabeçário",
-    "description": "A short description of the post.",
+    "title": "EXEMPLO DE CABEÇÁRIO",
+    "description": "Descrição...",
     "author": [
       {
-        "name": "Unknown",
-        "url": {}
+        "name": "Victor Valerio",
+        "url": "https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3017922"
       }
     ],
     "date": "2023-01-05",
     "categories": [],
     "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2023-01-05T21:47:43-03:00",
+    "last_modified": "2023-01-05T21:58:53-03:00",
     "input_file": "exemplo.knit.md"
   }
 ]

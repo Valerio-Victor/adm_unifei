@@ -1,10 +1,5 @@
 ---
 title: 'SOBRE O BLOG'
-author:
-  - name: Victor Valerio
-    url: https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3017922
-    affiliation: Universidade Federal de Itajubá
-date: '01/05/2023'
 description: |
   Para que fazer mais um site?
 ---
