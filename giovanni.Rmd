@@ -1,0 +1,44 @@
+---
+title: 'GIOVANNI GUIMARÃES'
+image: 'giovannilattes.png'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=1380779'
+  - label: LATTES
+    url: 'http://lattes.cnpq.br/7079783928118482'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE O PESQUISADOR
+
+Mineiro de Itanhandu transplantado para Itajubá na infância. Músico e poeta por 
+teimosia. Graduado em História pela Fundação de Ensino e Pesquisa de Itajubá. 
+Mestre em Educação pelo programa Educação: História, Política, Sociedade da PUC 
+SP de 1997 a 1999. Doutor em Educação: Currículo, pela PUC-SP de 2010-2015. 
+Trabalhou como educador em escolas públicas de Itajubá e região. Desde 2003 
+integra o quadro permanente da Universidade Federal de Itajubá, como professor. 
+Lotado no Instituto de Engenharia de Produção e Gestão. Já lecionou nos cursos 
+de Administração, de Física Licenciatura e de várias engenharias. Entre as 
+disciplinas lecionadas estão: Sociologia das Organizações; Metodologia de 
+Pesquisa aplicada à Administração; Filosofia das Organizações; Filosofia da 
+Educação: Ciências Humanas e Sociais. Integra o Grupo de Ensino, Pesquisa e 
+Extensão de Educação e Humanidades, na UNIFEI. Desenvolve pesquisa nas áreas: 
+História das Disciplinas Acadêmicas, História das Instituições Escolares, Ensino 
+de Engenharia, Cultura e Identidade Organizacionais; Trabalho, indivíduo e 
+Cultura. É professor conteudista dos cursos de especialização em Gestão de 
+pessoas e projetos sociais e "Gestão Educacional" pela Universidade Aberta do 
+Brasil.
+
+## CARGOS
+
+- Membro do Colegiado
+
+## CONTATOS
+
+- E-mail (profissional): giovanni.guimaraes@gmail.com 
+
+- Telefone: (35) 3629-1815
+

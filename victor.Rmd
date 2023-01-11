@@ -6,8 +6,6 @@ links:
     url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3017922'
   - label: LATTES
     url: 'http://lattes.cnpq.br/1989464933096922'
-  - label: EMAIL
-    url: 'victor.dmv@unifei.edu.br'
   - label: GITHUB
     url: 'https://github.com/Valerio-Victor'
 output:
@@ -16,16 +14,32 @@ output:
 
 <div style="text-align: justify">
 
-## COORDENADOR DE CURSO
-
 ## SOBRE O PESQUISADOR
 
-Possui graduação em ciências econômicas pela Universidade Estadual Paulista Júlio de Mesquita Filho 
-(2011), mestrado em engenharia de produção pela Universidade Federal de Itajubá (2015) e doutorado 
-em engenharia de produção pela Universidade Federal de Itajubá (2018), foi bolsista da CAPES em 
-ambos os casos. Atualmente é professor adjunto da Universidade Federal de Itajubá no Instituto de 
-Engenharia de Produção e Gestão. É revisor de congressos nacionais na área de análise financeira de 
-investimentos, pesquisa operacional, projetos de energia renovável e previsão. Tem experiência 
-profissional e acadêmica na área de economia e engenharia de produção, com ênfase em Métodos e
-Modelos Matemáticos, Econométricos e Estatísticos.
+Possui graduação em ciências econômicas pela Universidade Estadual Paulista 
+Júlio de Mesquita Filho (2011), mestrado em engenharia de produção pela 
+Universidade Federal de Itajubá (2015) e doutorado em engenharia de produção 
+pela Universidade Federal de Itajubá (2018), foi bolsista da CAPES em ambos os 
+casos. Atualmente é professor adjunto da Universidade Federal de Itajubá no 
+Instituto de Engenharia de Produção e Gestão, desempenhando as atividades de 
+Coordenação do Curso de Administração da UNIFEI e presidente da Comissão de 
+Energia Solar Fotovoltaica. Foi membro do conselho superior (CONSUNI) da UNIFEI. 
+É revisor de congressos nacionais na área de análise financeira de investimentos,
+pesquisa operacional, projetos de energia renovável e previsão. Tem experiência 
+profissional e acadêmica na área de economia e engenharia de produção, com 
+ênfase em Análise Financeira de Investimentos.
+
+## CARGOS
+
+- Membro do Colegiado
+
+- Coordenador de Curso
+
+## CONTATOS
+
+- E-mail (coordenação): adm.itajuba@unifei.edu.br
+
+- E-mail (profissional): victor.dmv@unifei.edu.br
+
+- Telefone: (35) 3629-1151
 

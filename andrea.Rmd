@@ -1,0 +1,37 @@
+---
+title: 'ANDRÉA MINEIRO'
+image: 'andrealattes.jpg'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=2587024'
+  - label: LATTES
+    url: 'http://lattes.cnpq.br/5051448221550826'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE A PESQUISADORA
+
+Possui graduação em Administração de Empresas (Empreendedorismo e Negócios pela 
+Universidade Federal de Itajubá (2003), Especialização em Qualidade e 
+Produtividade (2005), Mestrado em Engenharia de Produção pela Universidade 
+Federal de Itajubá (2007) e Doutorado em Administração pela Universidade 
+Federal de Lavras (2019). Atualmente é professor Adjunto nível 3 - de da 
+Universidade Federal de Itajubá e professor-pesquisador da Universidade Federal 
+de Itajubá. Tem experiência na área de Administração, com ênfase em 
+Empreendedorismo, atuando principalmente nos seguintes temas: investidores 
+anjos, empreendedorismo tecnológico, empreendedorismo social, empresa de base 
+tecnológica e inovação, Parques Tecnológicos, Hélice Tríplice, Quádrupla e 
+Quíntupla.
+
+## CARGOS
+
+- Coordenadora de Trabalho de Conclusão de Curso
+
+## CONTATOS
+
+- E-mail (profissional): andreamineiro@unifei.edu.br 
+
+- Telefone: (35) 3629-1391

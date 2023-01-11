@@ -6,12 +6,32 @@ navbar:
   right:
     - text: 'BLOG'
       href: index.html
-    - text: 'COLEGIADO'
+    - text: 'COLEGIADO E COORDENAÇÕES'
       menu:
       - text: 'VICTOR VALERIO'
         href: victor.html
+      - text: 'VALÉRIA LEITE'
+        href: valeria.html
+      - text: 'JENIFFER DE NADAE'
+        href: jeniffer.html
+      - text: 'FÁBIO FAVARETTO'
+        href: fabio.html
       - text: 'ISABEL ARANTES'
         href: isabel.html
+      - text: 'ELIANA SALOMON'
+        href: eliana.html
+      - text: 'CLÉBER JÚNIOR'
+        href: cleber.html
+      - text: 'GIOVANNI GUIMARAES'
+        href: giovanni.html
+      - text: 'ANDRÉA MINEIRO'
+        href: .html
+
+
+
+
+
+
     - text: 'SOBRE'
       href: sobre.html
     - text: 'COMUNIDADE'

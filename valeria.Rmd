@@ -1,0 +1,44 @@
+---
+title: 'VALÉRIA LEITE'
+image: 'valerialattes.png'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=1286842'
+  - label: LATTES
+    url: 'http://lattes.cnpq.br/9668077539780650'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE A PESQUISADORA
+
+Graduação em Linguística, língua e literatura pela Fundação de Ensino e Pesquisa
+de Itajubá (1990), graduação em Hospitality Meeting and Travel Management - 
+Metropolitan State University of Denver (1994) e mestrado em Engenharia de 
+Produção pela Universidade Federal de Itajubá (2001), doutora em Ciências da 
+Linguagem na Univás (2020). Atualmente professora adjunta da Universidade 
+Federal de Itajubá. Experiência na área de Administração, com ênfase em 
+Empreendedorismo, atuando principalmente nos seguintes temas: empreendedorismo - 
+comportamento empreendedor, ensino de empreendedorismo, gestão do conhecimento, 
+graduação em administração e ferramentas de gestão. Atuação na área de Business 
+English. Experiência em coordenação de curso de Administração em nível de 
+graduação e na Secretaria de Relações Internacionais. Coordenadora institucional 
+do programa Idiomas sem Fronteiras de 2012 a 2017. Doutorado em Ciências da 
+Linguagem, área de concentração: Análise de Discurso de linha materialista ou 
+francesa. Título da Tese: A produção de sentidos no discurso sobre a 
+internacionalização do/no ensino superior e o papel da língua inglesa como meio 
+de instrução.
+
+## CARGOS
+
+- Membro do Colegiado
+
+- Coordenadora Adjunta de Curso
+
+## CONTATOS
+
+- E-mail (profissional): valeria@unifei.edu.br 
+
+- Telefone: (35) 3629-1338

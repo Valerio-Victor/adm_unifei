@@ -1,0 +1,36 @@
+---
+title: 'ELIANA SALOMON'
+image: 'elianalattes.jpg'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=1763613'
+  - label: LATTES
+    url: ' http://lattes.cnpq.br/6528021371851629'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE A PESQUISADORA
+
+Graduação em Pedagogia com habilitação em Supervisão Escolar, Educação Infantil, 
+Primeiro Ciclo do Ensino Fundamental e Matérias Pedagógicas pelo Centro 
+Universitário de Itajubá - Universitas (2003), mestrado em Engenharia de 
+Produção (Gestão e Tecnologia) pela Universidade Federal de Itajubá - UNIFEI 
+(2007). Especialista em Tutoria em EaD pelo Grupo UNINTER/ Paraná (2007). 
+Professora Nível 3 da Classe C, com denominação de Professor Adjunto do Quadro 
+Permanente da Carreira do Magistério Superior na Universidade Federal de 
+Itajubá - UNIFEI - Experiência na área de Educação com ênfase em Educação a 
+Distância e Formação Docente. Doutora em Educação Currículo - Pontifícia 
+Universidade Católica - São Paulo (PUC São Paulo), 2018.
+
+## CARGOS
+
+- Membro do Colegiado
+
+## CONTATOS
+
+- E-mail (profissional): efssalomon@unifei.edu.br 
+
+- Telefone: (35) 3629-1294

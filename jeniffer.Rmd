@@ -1,0 +1,46 @@
+---
+title: 'JENIFFER DE NADAE'
+image: 'jenifferlattes.jpg'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=1315016'
+  - label: LATTES
+    url: 'http://lattes.cnpq.br/8207698080131416'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE A PESQUISADORA
+
+Professora da Universidade Federal de Itajubá (UNIFEI). Professor permante do 
+Programa de Pós- Graduação em Desenvolvimento, Tecnologias e Sociedade 
+(DTECS/UNIFEI) e Membro externo do Programa de Pós-Graduação em Desenvolvimento 
+Regional Sustentável (PRODER/UFCA). Pós Doutora em Engenharia de Produção pela 
+Escola Politécnica da USP - 2019. Doutora em Engenharia de Produção pela Escola 
+Politécnica da USP, linha de pesquisa Qualidade e Engenharia do Produto (QEP) - 
+2016, doutorado Sanduíche Université du Québec à Trois-Rivières. Mestre em 
+Engenharia de Produção pela Faculdade de Engenharia de Bauru da Universidade 
+Estadual Paulista Julio de Mesquita Filho (UNESP/Bauru) no ano de 2010. Possui 
+graduação em Administração de Empresas e Agronegócios (2008), pela Universidade 
+Estadual Paulista Julio de Mesquita Filho (UNESP/UD-Tupã/SP). Tem experiência 
+na área de Administração, Gestão da Produção, Gestão por processos; Gestão de 
+Projetos; Certificações integradas (ISO 9001, ISO 14001, OHSAS 18001, ISO 16001) 
+e Supply Chain Management e Sustentabilidade com os temas: sustentabilidade e 
+indicadores baseados no conceito do triple bottom line, gestão de resíduos, 
+logística reversa e economia circular.
+
+## CARGOS
+
+- Membro do Colegiado
+
+- Coordenadora de Estágio
+
+## CONTATOS
+
+- E-mail (coordenação): estagio.adm@unifei.edu.br
+
+- E-mail (profissional): jeniffer.nadae@unifei.edu.br  
+
+- Telefone: (35) 3629-1150

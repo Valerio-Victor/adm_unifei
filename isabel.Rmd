@@ -6,17 +6,13 @@ links:
     url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=3000296'
   - label: LATTES
     url: 'http://lattes.cnpq.br/8726073273094073'
-  - label: EMAIL
-    url: 'isabel.adm@unifei.edu.br'
 output:
   postcards::trestles
 ---
 
 <div style="text-align: justify">
 
-## COORDENADORA DE ORIENTAÇÃO ACADÊMICA
-
-## SOBRE O PESQUISADOR
+## SOBRE A PESQUISADORA
 
 Professora Adjunta da Universidade Federal de Itajubá - Unifei, lotada no 
 Instituto de Engenharia de Produção e Gestão - IEPG. Doutora em Administração - 
@@ -34,4 +30,16 @@ Docente Estruturante - NDE/ADM Unifei e do Colegiado do curso (2022/2024).
 Experiência de orientação nas áreas de Administração Geral, Estudos 
 Organizacionais, Gestão de Pessoas, Marketing, Estratégia, Modelo de 
 Negócio e Empreendedorismo. 
+
+## CARGOS
+
+- Membro do Colegiado
+
+- Coordenadora de Orientação Acadêmica
+
+## CONTATOS
+
+- E-mail (profissional): isabel.adm@unifei.edu.br
+
+- Telefone: (35) 3629-1291 
 

@@ -1,0 +1,35 @@
+---
+title: 'CLÉBER GONÇALVES JÚNIOR'
+image: 'cleberlattes.jpeg'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=2372476'
+  - label: LATTES
+    url: 'http://lattes.cnpq.br/1443206671297321'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE O PESQUISADOR
+
+Possui graduação em Engenharia Mecânica pela Universidade Federal de Itajubá 
+(2000) e mestrado em Engenharia de Produção pela Universidade Federal de 
+Itajubá (2003). Atualmente é Professor Assistente da Universidade Federal de 
+Itajubá. Tem experiência na área de Administração, com ênfase em Administração 
+de Empresas. Atuando principalmente nos seguintes temas:Adjusted Present Value, 
+APV, Análise de Investimentos, Custo de Capital, Risco e CAPM
+
+## CARGOS
+
+- Membro do Colegiado
+
+- Coordenador de Mobilidade Acadêmica
+
+## CONTATOS
+
+- E-mail (profissional): cgj@unifei.edu.br 
+
+- Telefone: (35) 3629-1681
+

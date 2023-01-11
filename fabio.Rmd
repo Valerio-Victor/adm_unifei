@@ -1,0 +1,36 @@
+---
+title: 'FÁBIO FAVARETTO'
+image: 'fabiolattes.png'
+links:
+  - label: UNIFEI
+    url: 'https://sigaa.unifei.edu.br/sigaa/public/docente/portal.jsf?siape=1221269'
+  - label: LATTES
+    url: 'http://lattes.cnpq.br/6818699281130228'
+output:
+  postcards::trestles
+---
+
+<div style="text-align: justify">
+
+## SOBRE O PESQUISADOR
+
+Engenheiro de produção com graduação, mestrado e doutorado na Escola de 
+Engenharia de São Carlos - USP. Sócio fundador e consultor na empresa Optimal 
+Assessoria e Comércio em Sistemas, com atuação entre 1993 e 2000. Professor 
+universitário nas áreas de planejamento da produção e sistemas de informação 
+desde 1997, atuando na Univ. Federal de São Carlos, Universidade de Franca, 
+PUC do Paraná e UNIFEI. Pós doutorado na área de administração de serviços pela 
+Universidad Complutense de Madrid em 2008. 
+
+## CARGOS
+
+- Membro do Colegiado
+
+- Coordenador Adjunto de Estágio
+
+## CONTATOS
+
+- E-mail (profissional): fabio.favaretto@unifei.edu.br 
+
+- Telefone: (35) 3629-1159
+
