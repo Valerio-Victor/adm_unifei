@@ -26,17 +26,11 @@ navbar:
         href: giovanni.html
       - text: 'ANDRÉA MINEIRO'
         href: andrea.html
-
-
-
-
-
-
     - text: 'SOBRE'
       href: sobre.html
     - text: 'COMUNIDADE'
       href: comunidade.html
-    - text: 'FORMULÁRIOS'
+    - text: 'DOCUMENTOS E FORMULÁRIOS'
       href: formularios.html
     - text: 'CONTATO'
       href: contato.html

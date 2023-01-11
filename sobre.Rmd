@@ -4,5 +4,48 @@ description: |
   Para que fazer mais um site?
 ---
 
-De início é importante esclarecer que esta não é uma página institucional da 
-UNIFEI.
+<div style="text-align: justify">
+
+De início, é importante ressaltar que esta não é uma página institucional da 
+UNIFEI ou mesmo do IEPG, mas uma página pessoal do atual coordenador (Eu, Prof. 
+Victor Valerio). Contudo, este “BLOG DO COORDENADOR” corresponde a um relevante instrumento de comunicação entre às coordenações do curso, colegiado e os
+estudantes, uma vez que, são concentradas aqui todas as informações importantes 
+e com impactos no nosso dia a dia.
+
+Justamente por não ser uma página institucional, todas as informações aqui 
+postadas são públicas e disponibilizadas por todos os outros meios de 
+comunicação institucionais. Em associação, todas as informações complementares 
+aqui comunicadas também serão encaminhadas para vocês estudantes a partir dos 
+canais oficiais (especialmente, e-mails cadastrados no SIGAA e a partir da ação 
+do Centro Acadêmico de Administração), como sempre foi feito.
+
+Por fim, o “BLOG DO COORDENADOR” foi pensado em uma estrutura: 
+
+- COLEGIADO E COORDENAÇÕES: Este espaço é dedicado a apresentar cada um dos 
+membros do colegiado e os coordenadores de curso, estágio, orientação acadêmica 
+e trabalho de conclusão de curso (assim como os respectivos adjuntos). De 
+maneira complementar são inseridos os contatos de cada um deles;
+
+- COMUNIDADE: Este espaço é dedicado a interação direta entre os estudantes, 
+centro acadêmico e à coordenação de Curso. Todas as dúvidas sobre o dia a dia 
+da graduação poderão ser postadas aqui para que possamos debater e esclarecer, 
+por exemplo, problemas com matrículas, equivalências, estágio ou qualquer outro 
+tema de interesse dos estudantes. É nossa responsabilidade tornar essa 
+comunidade um ambiente inclusivo e agradável, além disso, ao invés de enviar 
+qualquer e-mail com dúvida, gostaria de que fosse priorizado esse ambiente 
+(mais estudantes podem estar com a mesma dúvida). 
+
+- DOCUMENTOS E FORMULÁRIOS: Este espaço é dedicado a disponibilizar os 
+principais documentos, normas e formulários para solicitações diversas. Antes de 
+encaminhar qualquer e-mail realizando uma solicitação, dê uma olhada nesse 
+ambiente ou consulte a comunidade.
+
+- CONTATO: Este espaço é dedicado a apresentar a agenda do coordenador e, em 
+associação, disponibilizar os meios para agendamento de reuniões (os meus 
+contatos também são disponibilizados aqui). 
+
+Assim, espero que esse projeto possa contribuir com o nosso Curso de 
+Administração da UNIFEI. 
+
+Conto com vocês!
+
