@@ -27,6 +27,6 @@ conversa. Não se esqueça de adicionar seu contato (e-mail) e também a pauta d
 reunião para que eu já possa chegar preparado.
 
 <!-- Widget em linha do Calendly - início -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/profvictorvalerio/coordenacao-adm?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:650px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/profvictorvalerio/coordenacao-adm?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Widget em linha do Calendly - fim -->
