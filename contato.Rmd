@@ -6,6 +6,11 @@ description: |
 
 ## AGENDA
 
+Você pode conferir abaixo a minha disponibilidade e as ações que estão sendo 
+realizadas por mim. 
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=America%2FSao_Paulo&showTitle=0&showNav=1&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=WEEK&src=dmljdG9yLmRtdkB1bmlmZWkuZWR1LmJy&src=Y18wcHRmdnNzZmk1Z3U2N3UxcXViazNtZTIzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23F6BF26" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
 ## CONTATO
 
 <div style="text-align: justify">
@@ -30,3 +35,7 @@ reunião para que eu já possa chegar preparado.
 <div class="calendly-inline-widget" data-url="https://calendly.com/profvictorvalerio/coordenacao-adm?hide_event_type_details=1&hide_gdpr_banner=1" style="min-width:320px;height:600px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Widget em linha do Calendly - fim -->
+
+Confira na minha agenda acima se a reunião solicitada por você já consta na 
+agenda!
+
